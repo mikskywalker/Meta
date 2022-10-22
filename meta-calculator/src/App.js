@@ -73,7 +73,9 @@ Coded by Miks Casal on Oct 2022 for the Frontend Developer Professional Certific
 follow me: 
 
 instagram @constviolin 
+
 linkedin @mikscasal
+
 youtube @mikscasal
 
 */
