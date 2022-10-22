@@ -1,0 +1,47 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+
+}
+
+.content-container {
+    margin-top: 10vh;
+    background-color: whitesmoke;
+    padding: 3rem;
+    border: 1px solid black;
+}
+
+.number {
+    margin: 1rem;
+    font-size: 4rem;
+}
+
+input,
+button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+input {
+    display: block;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid gray;
+    background: whitesmoke;
+    margin-right: 5px;
+}
+
+button:nth-last-child(2),
+button:nth-last-child(1) {
+    background: tomato;
+    color: white;
+}
